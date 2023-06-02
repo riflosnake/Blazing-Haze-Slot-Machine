@@ -13,7 +13,7 @@
 
 For a better user experience, it is recommended to use buttons on the keyboard rather than the buttons.
 
-- `Space`: It is the main button, used to `spin`, `claim` pot and skip spinning animation.
+- `Space`: It is the main button, used to `spin`, `claim` pot or skip spinning animation.
 - `Left Arrow Button`: Can `raise bet size` incrementally, or when won a combination, can trigger gamble mode.  When in gamble mode, picks the `red` color card.
 - `Right Arrow Button`: `Maxes bet size` (10k), or when won a combination, can trigger gamble mode. When in gamble mode, picks the `black` color card.
 - `Enter`: Press to `input cash`, or withdraw money and `close game`.
